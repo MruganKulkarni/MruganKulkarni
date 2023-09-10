@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mrugan kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrugan kulkarni" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrugan kulkarni(ra2211026010433)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrugan kulkarni(ra2211026010433)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mrugan-kulkarni-60683b198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrugan kulkarni" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mk1308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrugan kulkarni(ra2211026010433)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
